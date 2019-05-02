@@ -5,9 +5,9 @@ import java.util.List;
 
 /**
  * VM Args: -Xms20M -Xmx20M -XX:+HeapDumpOnOutOfMemoryError
-* 2019Äê3ÔÂ14ÈÕ
-* chensi
-**/
+ * 2019å¹´3æœˆ14æ—¥
+ * chensi
+ **/
 public class HeapOOP {
 	
 	static class OOMObject {
